@@ -1,1 +1,1 @@
-# It's for the eQTL part from GOBI 
+# eQTL part from GOBI 
